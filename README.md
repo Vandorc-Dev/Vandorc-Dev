@@ -38,11 +38,15 @@ No momento estou aprimorando meus conhecimentos como desenvolvedor Full Stack at
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vandorc-Dev&repo=Portal-RespondeAqui&show_owner=true)](https://github.com/Vandorc-Dev/Portal-RespondeAqui)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vandorc-Dev&repo=class-diary&show_owner=true)](https://github.com/Vandorc-Dev/class-diary)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vandorc-Dev&repo=site-streaming-tipo-netflix&show_owner=true)](https://github.com/Vandorc-Dev/class-diary)
+
 <h3> 🤝🏻 Fale comigo!</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vando-rocha/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:vandorochaads@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+
+
 </p>
 
 

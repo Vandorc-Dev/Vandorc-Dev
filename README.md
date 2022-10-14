@@ -39,7 +39,7 @@ No momento estou aprimorando meus conhecimentos como desenvolvedor Full Stack at
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vandorc-Dev&repo=class-diary&show_owner=true)](https://github.com/Vandorc-Dev/class-diary)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vandorc-Dev&repo=site-streaming-tipo-netflix&show_owner=true)](https://github.com/Vandorc-Dev/class-diary)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vandorc-Dev&repo=site-streaming-tipo-netflix&show_owner=true)](https://github.com/Vandorc-Dev/site-streaming-tipo-netflix)
 
 <h3> 🤝🏻 Fale comigo!</h3>
 

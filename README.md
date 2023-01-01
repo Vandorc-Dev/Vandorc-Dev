@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://media-exp1.licdn.com/dms/image/C4D03AQFqFQRqQj0iRQ/profile-displayphoto-shrink_200_200/0/1639387273496?e=1669248000&v=beta&t=aiPh_95ZhELw-GQrsuozTe2nHL9tevYY1AgzEuMfFgs" align="center" alt="Github Readme Stats" />
+ <img width="100px" src="https://media.licdn.com/dms/image/C4D03AQFqFQRqQj0iRQ/profile-displayphoto-shrink_200_200/0/1639387273496?e=1678320000&v=beta&t=HwEngdC0N06oTsbuKET2kpDF_7AvA7isz8yKqBAlF4M" align="center" alt="Github Readme Stats" />
  <h2 align="center">Perfil</h2>
 </p>
 

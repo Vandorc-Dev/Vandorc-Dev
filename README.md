@@ -1,5 +1,5 @@
 <p align="center">
- <img width="130px" src="https://media.licdn.com/dms/image/C4D03AQFqFQRqQj0iRQ/profile-displayphoto-shrink_800_800/0/1639387273496?e=1692835200&v=beta&t=srv7zdkVQ_tZ10IrnRbN170vZtvtT1o0ifoZ4yg5wNw" align="center" alt="Github Readme Stats" />
+ <img src="https://github.com/Vandorc-Dev/Vandorc-Dev/blob/main/1697676093395.jpg?raw=true" align="center" alt="Github Readme Stats" />
  <h2 align="center">Perfil</h2>
 </p>
 

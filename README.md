@@ -1,60 +1,54 @@
+<p align="center">
+ <img src="https://github.com/Vandorc-Dev/Vandorc-Dev/blob/main/1697676093395.jpg?raw=true" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Perfil</h2>
+</p>
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+### Olá! 👋 Me chamo [Vanderlândio Z. Rocha](https://github.com/Vandorc-Dev)
+> Sou desenvolvedor web.
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Vandorc-Dev&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-Vandorc-Dev.vercel.app/api/top-langs/?username=Vandorc-dev&show_icons=true&theme=radical&layout=compact" />
- </div>
+
+<img src="https://komarev.com/ghpvc/?username=Vandorc-Dev&label=VISITAS+NO+PERFIL&style=for-the-badge" alt="Vandorc-Dev" />
+
+<div>
+ <p>
+Sou desenvolvedor Web de nível Jr, capaz de construir aplicações Web completas. Hábil em escrever código bem projetado, testável e eficiente usando as melhores práticas atuais no desenvolvimento da Web. Aprende rápido, trabalha duro e trabalha em equipe, proficiente em uma variedade de linguagens de script e ferramentas da Web.
+
+Graudado em Análise e Desenvolvimento de Distemas, e pós-graduado em Administarção de Banco de Dados.
+No momento estou aprimorando meus conhecimentos como desenvolvedor Full Stack através de cursos, bootcamps e muita prática construindo projetos de relevância. 
+
+</p>
+</div>
+
+### Linguagens que utilizo: 🌐
+
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="42">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/)  | [<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Java" width="50">](https://www.java.com/)  |  [<img src="https://samory.sistemasresponsivos.com.br/wp-content/uploads/2020/10/512px-HTML5_logo_and_wordmark.svg.png" alt="Html5" width="42">](https://html5.org/) |  [<img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" alt="Css3" width="30">](https://developer.mozilla.org/pt-BR/docs/Web/CSS/) | [<img src="https://info-comp.ru/wp-content/uploads/images/stories/kartinki2/What_is_SQL_1.jpg" alt="jQuery" width="55">](https://pt.wikipedia.org/wiki/SQL/)
+|---|---|---|---|---|
  
- &nbsp;
- &nbsp;
+### Ferramentas 🛠️
+
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="38">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="38">](https://git-scm.com/) |  [<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express" width="38">](https://expressjs.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="38">](https://code.visualstudio.com/) | [<img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="NodeJS" width="38">](https://ubuntu.com/)  |  [<img src="https://khalilstemmler.com/img/blog/sequelize/banner.png" alt="Sequelize" width="38">](https://sequelize.org/)
+|---|---|---|---|---|---|
+
+### Github Stats
+
+[![Vando Rocha GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vandorc-Dev&show_icons=true&count_private=true)](https://github.com/Vandorc-Dev)
+
+### Principais projetos
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vandorc-Dev&repo=save-pet&show_owner=true)](https://github.com/Vandorc-Dev/save-pet)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vandorc-Dev&repo=Portal-RespondeAqui&show_owner=true)](https://github.com/Vandorc-Dev/Portal-RespondeAqui)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vandorc-Dev&repo=class-diary&show_owner=true)](https://github.com/Vandorc-Dev/class-diary)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vandorc-Dev&repo=site-streaming-tipo-netflix&show_owner=true)](https://github.com/Vandorc-Dev/site-streaming-tipo-netflix)
+
+<h3> 🤝🏻 Fale comigo!</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/vanderlandio-rocha/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@vanderlandio-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:vandorochaads@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vandorcdev@gmail.com-blue?style=flat&logo=gmail"></a>
 
 
-
-## My Skills
-
-#### Main Stack:
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Secondary Stack:
-
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+</p>
 
 
-#### Databases:
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-
-&nbsp;
-&nbsp;
-
-## Contacts:
-
-<div> 
-<a href = "mailto:vandorcdev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vanderlandio-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
-
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+⭐️ From [@vandorc-dev](https://github.com/Vandorc-Dev)
